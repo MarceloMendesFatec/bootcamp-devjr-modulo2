@@ -80,7 +80,7 @@ button:hover{
 .column2{
     background-color: #009e9e;
     width: 50%;
-    padding: 1.5rem;
+    padding: 1.4rem;
     color: #FFFFFF;
     padding: 0.5rem 1rem
 }
@@ -108,6 +108,5 @@ button:hover{
     .container{
         width: 95%;
     }
-
     
 }
